@@ -53,13 +53,9 @@
 <h3 align="center">🌐 Conecta conmigo</h3>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/tu-usuario](https://www.linkedin.com/in/javier-sancho-pe-9433ab21b/)" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/tu-usuario" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40"/>
-  </a>
+  <a href="https://www.linkedin.com/in/javier-sancho-pe-9433ab21b/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
   &nbsp;&nbsp;
   <a href="mailto:tuemail@ejemplo.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
